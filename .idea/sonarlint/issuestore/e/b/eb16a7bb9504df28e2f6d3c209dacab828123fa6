@@ -1,0 +1,106 @@
+
+D
+java:S1604ş"(Make this anonymous inner class a lambda(¡ØŒ‰úÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(¢öİ¤
+?
+java:S1604‡"(Make this anonymous inner class a lambda(èÇ³Ò
+?
+java:S1604ù"(Make this anonymous inner class a lambda(íÔ¿Å
+D
+java:S1604€"(Make this anonymous inner class a lambda(ùñ©úÿÿÿÿ
+s
+java:S11048"]Make aspectRatioLayout a static final constant or non-public and provide accessors if needed.(‹©óß
+l
+java:S1104V"QMake color a static final constant or non-public and provide accessors if needed.(“ ú’şÿÿÿÿ
+o
+java:S1104X"TMake dbHelper a static final constant or non-public and provide accessors if needed.(»èĞ»ıÿÿÿÿ
+m
+java:S1104_"WMake iv_bg_color a static final constant or non-public and provide accessors if needed.(’à£ş
+i
+java:S1104i"SMake ly_main a static final constant or non-public and provide accessors if needed.(£‰ÇĞ
+i
+java:S1104m"SMake rl_main a static final constant or non-public and provide accessors if needed.(àÙçÂ
+x
+java:S1104o"]Make stickerHolderView a static final constant or non-public and provide accessors if needed.(ÿ™ëøÿÿÿÿ
+c	java:S101®"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úÁœ­
+e
+java:S2095Í"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(éà¾î
+P
+java:S3516Ã"9Refactor this method to not always return the same value.(òı«Ú
+o	java:S116["URename this field "iv_add_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œß‘ıúÿÿÿÿ
+g	java:S116\"RRename this field "iv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š”§Ÿ
+j	java:S116]"URename this field "ly_add_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÀÆë
+h	java:S116]"SRename this field "ly_scrap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÀÆë
+g	java:S116]"RRename this field "ly_edit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÀÆë
+n	java:S116]"YRename this field "ly_left_rotate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÀÆë
+o	java:S116]"ZRename this field "ly_right_rotate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÀÆë
+m	java:S116]"XRename this field "ly_horizontal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÀÆë
+k	java:S116]"VRename this field "ly_vertical" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÀÆë
+k	java:S116_"VRename this field "iv_bg_color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’à£ş
+l	java:S116`"RRename this field "iv_done" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅØ¶¿øÿÿÿÿ
+l	java:S116a"RRename this field "iv_edit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¹±‘ÿÿÿÿÿ
+m	java:S116b"XRename this field "iv_horizontal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ç¡Û
+l	java:S116c"RRename this field "iv_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛúªÏşÿÿÿÿ
+h	java:S116d"SRename this field "iv_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü«àÍ
+h	java:S116e"SRename this field "iv_scrap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êƒè›
+k	java:S116f"VRename this field "iv_vertical" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßïúœ
+h	java:S116g"SRename this field "ly_color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šÿç·
+g	java:S116i"RRename this field "ly_main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‰ÇĞ
+r	java:S116j"XRename this field "ly_scrap_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“…±†ÿÿÿÿÿ
+g	java:S116m"RRename this field "rl_main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÙçÂ
+–
+java:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥˜J
+[
+java:S1659]"EDeclare "ly_scrap" and all following declarations on a separate line.(ÏÀÆë
+o
+java:S1450]"YRemove the "ly_add_new" field and declare it as a local variable in the relevant methods.(ÏÀÆë
+l
+java:S1450]"VRemove the "ly_edit" field and declare it as a local variable in the relevant methods.(ÏÀÆë
+r
+java:S1450]"\Remove the "ly_horizontal" field and declare it as a local variable in the relevant methods.(ÏÀÆë
+s
+java:S1450]"]Remove the "ly_left_rotate" field and declare it as a local variable in the relevant methods.(ÏÀÆë
+t
+java:S1450]"^Remove the "ly_right_rotate" field and declare it as a local variable in the relevant methods.(ÏÀÆë
+m
+java:S1450]"WRemove the "ly_scrap" field and declare it as a local variable in the relevant methods.(ÏÀÆë
+p
+java:S1450]"ZRemove the "ly_vertical" field and declare it as a local variable in the relevant methods.(ÏÀÆë
+U
+java:S1874Ø">Remove this use of "setDrawingCacheEnabled"; it is deprecated.(™Ìàæ
+2
+java:S3878İ"Remove this array creation.(ŞŠşò
+F
+java:S1874İ"/Remove this use of "execute"; it is deprecated.(ŞŠşò
+—
+java:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ª¬Ò1
+
+java:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ŠÇ¾ıÿÿÿÿ
+K
+java:S1874™"4Remove this use of "SimpleTarget"; it is deprecated.(å„ÄÀ
+K
+java:S1874 "4Remove this use of "SimpleTarget"; it is deprecated.(™§âô
+v	java:S116¯"[Rename this field "current_doc_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òˆ¹ıÿÿÿÿ
+k	java:S116°"URename this field "group_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÜëƒ
+p	java:S116±"URename this field "group_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿı·¹øÿÿÿÿ
+H
+java:S1874®"1Remove this use of "AsyncTask"; it is deprecated.(úÁœ­
+M
+java:S1874²"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+`
+java:S1874¸"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Á…‘
+J
+java:S1874¹"4Remove this use of "onPreExecute"; it is deprecated.(”•P
+R
+java:S1874º"6Remove this use of "ProgressDialog"; it is deprecated.(°æß¼øÿÿÿÿ
+T
+java:S1874»"8Remove this use of "setIndeterminate"; it is deprecated.(´á¸øÿÿÿÿ
+I
+java:S1874¼"2Remove this use of "setMessage"; it is deprecated.(¯Á×ş
+S
+java:S1874Ä"7Remove this use of "getDrawingCache"; it is deprecated.(şÚ¨«üÿÿÿÿ
+a
+java:S1874ã"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(÷‰è
+L
+java:S1874ä"5Remove this use of "onPostExecute"; it is deprecated.(¿åß¯

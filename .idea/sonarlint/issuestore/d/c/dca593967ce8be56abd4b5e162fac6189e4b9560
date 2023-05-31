@@ -1,0 +1,27 @@
+
+e
+java:S1192À"IDefine a constant instead of duplicating this literal "name = ?" 3 times.(½óËıÿÿÿÿ
+c
+java:S1192Ç"LDefine a constant instead of duplicating this literal "imgname = ?" 3 times.(ÈÈ’™
+g
+java:S1192"PDefine a constant instead of duplicating this literal "SELECT  * FROM " 3 times.(ô…·
+‹
+java:S1319Y"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¨›Èüÿÿÿÿÿ
+‹
+java:S1319j"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÁÏ´©şÿÿÿÿ
+‹
+java:S1319{"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰¡‘ùùÿÿÿÿ
+Œ
+java:S1319Œ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(€ßÎ÷øÿÿÿÿ
+‡
+java:S1319Ÿ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".( £ğë
+k	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªúà®øÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÏ‡¥ıÿÿÿÿ
+]
+java:S1126Ó"AReplace this if-then-else statement by a single return statement.(Ç¶Şİüÿÿÿÿ
+O
+java:S1068"4Remove this unused "DATABASE_VERSION" private field.(‰Ãîßÿÿÿÿÿ
+H
+java:S1068"2Remove this unused "KEY_TABLE_DATE" private field.(„¹Üˆ
+M
+java:S1068"2Remove this unused "KEY_TABLE_NAME" private field.(›»›Îıÿÿÿÿ

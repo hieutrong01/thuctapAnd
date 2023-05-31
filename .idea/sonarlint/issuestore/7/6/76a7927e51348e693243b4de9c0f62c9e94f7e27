@@ -1,0 +1,42 @@
+
+Œ
+java:S1319€"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÁÀ…şÿÿÿÿ
+Œ
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ëÆİÿÿÿÿÿ
+
+java:S1319Ï"iThe type of "arrayList" should be an interface such as "List" rather than the implementation "ArrayList".(Â­£g
+…
+java:S1319ğ"iThe type of "arrayList" should be an interface such as "List" rather than the implementation "ArrayList".(İ•ÖÛıÿÿÿÿ
+Q
+java:S1141¨"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1604t"(Make this anonymous inner class a lambda(ªŸìÿÿÿÿÿ
+m
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(”Äæôúÿÿÿÿ
+B
+java:S1168£"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1172Ï"+Remove this unused method parameter "str2".(Â­£g
+<
+java:S1075Ò"&Remove this hard-coded path-delimiter.(ÍÍ…
+_
+java:S1874Ò"IRemove this use of "getExternalStoragePublicDirectory"; it is deprecated.(ÍÍ…
+Q	java:S899Ø";Do something with the "boolean" value returned by "delete".(È×ö
+e
+java:S4042Ø"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(È×ö
+<
+java:S1075ô"&Remove this hard-coded path-delimiter.(ÍÍ…
+_
+java:S1874ô"IRemove this use of "getExternalStoragePublicDirectory"; it is deprecated.(ÍÍ…
+Q	java:S899ú";Do something with the "boolean" value returned by "delete".(È×ö
+e
+java:S4042ú"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(È×ö
+=
+java:S1075ş"&Remove this hard-coded path-delimiter.(å–¨ê
+`
+java:S1874ş"IRemove this use of "getExternalStoragePublicDirectory"; it is deprecated.(å–¨ê
+Q	java:S899„";Do something with the "boolean" value returned by "delete".(æ—Äò
+e
+java:S4042„"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(æ—Äò
+_
+java:S3878¤"CDisambiguate this call by either casting as "Object" or "Object[]".(èëÿ„ÿÿÿÿÿ

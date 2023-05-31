@@ -1,0 +1,13 @@
+
+C
+java:S16044"(Make this anonymous inner class a lambda(äö§Çýÿÿÿÿ
+l	java:S116"RRename this field "page_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡åÍ«þÿÿÿÿ
+l	java:S116"RRename this field "pdf_uri" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¿Ú¾úÿÿÿÿ
+g	java:S116"RRename this field "tv_page" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¢ü¿
+m	java:S116"SRename this field "tv_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¦˜¬ýÿÿÿÿ
+p
+java:S1450"URemove the "adView" field and declare it as a local variable in the relevant methods.(Í©Ñ±øÿÿÿÿ
+^
+java:S3878c"CDisambiguate this call by either casting as "Object" or "Object[]".(¼åãìúÿÿÿÿ
+^
+java:S3878p"CDisambiguate this call by either casting as "Object" or "Object[]".(®âïøÿÿÿÿÿ

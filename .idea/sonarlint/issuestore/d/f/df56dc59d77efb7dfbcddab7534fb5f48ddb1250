@@ -1,0 +1,342 @@
+
+d
+java:S1192¨"HDefine a constant instead of duplicating this literal "ID Card" 7 times.(ğƒœÎûÿÿÿÿ
+]
+java:S1192Ñ"FDefine a constant instead of duplicating this literal "Photo" 4 times.(Â€ûş
+e
+java:S1192¨"IDefine a constant instead of duplicating this literal "Document" 6 times.(ğƒœÎûÿÿÿÿ
+q
+java:S1192k"VDefine a constant instead of duplicating this literal "IDCardPreviewActivity" 4 times.(ÓÔÑ…ûÿÿÿÿ
+p
+java:S1192â"TDefine a constant instead of duplicating this literal "Insert text here..." 5 times.(ÁÏÓÇıÿÿÿÿ
+k
+java:S1192g"VDefine a constant instead of duplicating this literal "CropDocumentActivity2" 3 times.(Ÿ¿}
+m
+java:S1192¹"QDefine a constant instead of duplicating this literal "Cannot write to " 5 times.(ò’¾Úÿÿÿÿÿ
+h
+java:S1192ô"QDefine a constant instead of duplicating this literal "onPictureTaken: " 8 times.(ššÂ°
+a
+java:S1192ù"JDefine a constant instead of duplicating this literal "Back Side" 3 times.(Ö©­
+c
+java:S1192¨"GDefine a constant instead of duplicating this literal "Single" 3 times.(ğƒœÎûÿÿÿÿ
+q
+java:S1192È"ZDefine a constant instead of duplicating this literal "android.permission.CAMERA" 4 times.(°Œ÷¿
+€
+java:S1319Q"jThe type of "bitmapList" should be an interface such as "List" rather than the implementation "ArrayList".(Áô„
+†
+java:S1319R"kThe type of "bookImgList" should be an interface such as "List" rather than the implementation "ArrayList".(øÊ‹£ÿÿÿÿÿ
+ˆ
+java:S1319S"mThe type of "idcardImgList" should be an interface such as "List" rather than the implementation "ArrayList".(ô¦¼Õøÿÿÿÿ
+?
+java:S1604ñ"(Make this anonymous inner class a lambda(¿¸ó­
+?
+java:S1604ù"(Make this anonymous inner class a lambda(ìáæ°
+D
+java:S1604"(Make this anonymous inner class a lambda(ùñ©úÿÿÿÿ
+?
+java:S1604Œ"(Make this anonymous inner class a lambda(„ÑñŒ
+?
+java:S1604†"(Make this anonymous inner class a lambda(™àëÒ
+D
+java:S1604’"(Make this anonymous inner class a lambda(µŸ´Šøÿÿÿÿ
+D
+java:S1604½"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604Ç"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604·"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+D
+java:S1604 "(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604ª"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604š"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+D
+java:S1604î"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604ø"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604è"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+?
+java:S1604æ"(Make this anonymous inner class a lambda(í±Ç€
+?
+java:S1604ğ"(Make this anonymous inner class a lambda(àÛöØ
+?
+java:S1604Ø	"(Make this anonymous inner class a lambda(™àëÒ
+D
+java:S1604ß	"(Make this anonymous inner class a lambda(µŸ´Šøÿÿÿÿ
+l
+java:S1104Q"VMake bitmapList a static final constant or non-public and provide accessors if needed.(Áô„
+r
+java:S1104R"WMake bookImgList a static final constant or non-public and provide accessors if needed.(øÊ‹£ÿÿÿÿÿ
+t
+java:S1104S"YMake idcardImgList a static final constant or non-public and provide accessors if needed.(ô¦¼Õøÿÿÿÿ
+r
+java:S1104‡"VMake cameraView a static final constant or non-public and provide accessors if needed.(øÔÉ«ùÿÿÿÿ
+y
+java:S1104‰"]Make current_docs_name a static final constant or non-public and provide accessors if needed.(×Ş“Øüÿÿÿÿ
+p
+java:S1104Œ"TMake dbHelper a static final constant or non-public and provide accessors if needed.(»èĞ»ıÿÿÿÿ
+r
+java:S1104"VMake isBackSide a static final constant or non-public and provide accessors if needed.(ŞúÊôùÿÿÿÿ
+t
+java:S1104”"XMake iv_card_crop a static final constant or non-public and provide accessors if needed.(ƒõè­øÿÿÿÿ
+v
+java:S1104–"ZMake iv_card_filter a static final constant or non-public and provide accessors if needed.(…æĞÃıÿÿÿÿ
+j
+java:S1104š"SMake iv_done a static final constant or non-public and provide accessors if needed.(¾ªüé
+w
+java:S1104¤"[Make iv_switch_flash a static final constant or non-public and provide accessors if needed.(®Üˆòıÿÿÿÿ
+l
+java:S1104§"UMake ly_camera a static final constant or non-public and provide accessors if needed.(÷Í·À
+o
+java:S1104©"SMake ly_crop a static final constant or non-public and provide accessors if needed.(³¯§’üÿÿÿÿ
+v
+java:S1104®"ZMake originalBitmap a static final constant or non-public and provide accessors if needed.(Ôíõæüÿÿÿÿ
+s
+java:S1104°"WMake progressBar a static final constant or non-public and provide accessors if needed.(ûÇâàùÿÿÿÿ
+v
+java:S1104µ"_Make selected_group_name a static final constant or non-public and provide accessors if needed.(ºŸı
+k
+java:S1104·"UMake sourceUri a static final constant or non-public and provide accessors if needed.(É´ÂJ
+r
+java:S1104¹"VMake tempBitmap a static final constant or non-public and provide accessors if needed.(ƒÛÆèøÿÿÿÿ
+m
+java:S1104½"VMake tv_id_card a static final constant or non-public and provide accessors if needed.(¡‰¥§
+F
+java:S1444Q"0Make this "public static bitmapList" field final(Áô„
+L
+java:S1444R"1Make this "public static bookImgList" field final(øÊ‹£ÿÿÿÿÿ
+N
+java:S1444S"3Make this "public static idcardImgList" field final(ô¦¼Õøÿÿÿÿ
+c	java:S101¸"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£Â¡˜
+h	java:S101‰	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úù«ºùÿÿÿÿ
+e
+java:S2095À"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(£òü•
+e
+java:S2095ê"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(°—„
+e
+java:S2095Ö"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(éà¾î
+j
+java:S2095Õ"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÒÀ²ºşÿÿÿÿ
+e
+java:S2095	"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(éà¾î
+e
+java:S2095¬"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(éà¾î
+j
+java:S2095‚"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ùÖ…ôúÿÿÿÿ
+P
+java:S3516Í"9Refactor this method to not always return the same value.(òı«Ú
+w	java:S116‰"\Rename this field "current_docs_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ş“Øüÿÿÿÿ
+n	java:S116Š"XRename this field "current_flash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¹©¾
+t	java:S116"YRename this field "iv_back_camera" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¹ÚÎşÿÿÿÿ
+m	java:S116‘"WRename this field "iv_back_crop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‹êí
+t	java:S116’"YRename this field "iv_back_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥î…‹şÿÿÿÿ
+r	java:S116”"WRename this field "iv_card_crop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒõè­øÿÿÿÿ
+t	java:S116–"YRename this field "iv_card_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…æĞÃıÿÿÿÿ
+n	java:S116—"SRename this field "iv_color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë÷¤ıûÿÿÿÿ
+q	java:S116˜"VRename this field "iv_continue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş§‘şÿÿÿÿ
+h	java:S116š"RRename this field "iv_done" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ªüé
+o	java:S116›"YRename this field "iv_done_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÕ¤È
+m	java:S116œ"WRename this field "iv_full_crop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ûê
+p	java:S116"URename this field "iv_gallery" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ƒ—óùÿÿÿÿ
+r	java:S116"WRename this field "iv_ocv_black" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ˆåÿşÿÿÿÿ
+q	java:S116Ÿ"VRename this field "iv_original" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¸ë¤üÿÿÿÿ
+j	java:S116 "TRename this field "iv_retake" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Æıÿ
+t	java:S116¡"YRename this field "iv_sharp_black" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ß£şùÿÿÿÿ
+v	java:S116¢"[Rename this field "iv_switch_camera" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜–Õğúÿÿÿÿ
+u	java:S116¤"ZRename this field "iv_switch_flash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Üˆòıÿÿÿÿ
+p	java:S116¥"ZRename this field "iv_take_picture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¸Ÿ™
+j	java:S116§"TRename this field "ly_camera" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Í·À
+m	java:S116©"RRename this field "ly_crop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¯§’üÿÿÿÿ
+w	java:S116ª"\Rename this field "ly_current_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºĞçÿÿÿÿÿ
+j	java:S116«"TRename this field "ly_filter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õš…ã
+s	java:S116¬"XRename this field "ly_rotate_doc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ââ»øÿÿÿÿ
+m	java:S116²"WRename this field "rl_book_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‰ü
+t	java:S116³"YRename this field "rl_idcard_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜†ŒØıÿÿÿÿ
+t	java:S116µ"^Rename this field "selected_group_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºŸı
+m	java:S116º"RRename this field "tv_book" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ó¬ˆşÿÿÿÿ
+l	java:S116»"VRename this field "tv_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•™ù¡
+k	java:S116½"URename this field "tv_id_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‰¥§
+j	java:S116¾"TRename this field "tv_idcard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÌó÷
+n	java:S116¿"SRename this field "tv_photo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µØë€úÿÿÿÿ
+l	java:S116À"QRename this field "v_book" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èæ’œûÿÿÿÿ
+p	java:S116Á"URename this field "v_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔàÙŒşÿÿÿÿ
+i	java:S116Â"SRename this field "v_idcard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“›²…
+m	java:S116Ã"RRename this field "v_photo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥”Ïâùÿÿÿÿ
+3
+java:S2386Q"Make this member "protected".(Áô„
+8
+java:S2386S"Make this member "protected".(ô¦¼Õøÿÿÿÿ
+R
+java:S1874±"6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(Ş»•k
+D
+java:S1905³"(Remove this unnecessary cast to "float".(ÑâÒáùÿÿÿÿ
+?
+java:S1905Ç"(Remove this unnecessary cast to "float".(ı‚û¤
+O
+java:S3878Í"8Remove this array creation and simply pass the elements.(ïö˜±
+F
+java:S1874Í"/Remove this use of "execute"; it is deprecated.(ïö˜±
+?
+java:S1905Ü"(Remove this unnecessary cast to "float".(ŒœÊá
+?
+java:S1905ñ"(Remove this unnecessary cast to "float".(ÜÈï
+?
+java:S1905‰"(Remove this unnecessary cast to "float".(„˜„Ë
+d
+java:S1871¨"MThis branch's code block is the same as the block for the branch on line 421.(‹©ƒÖ
+d
+java:S1871±"MThis branch's code block is the same as the block for the branch on line 418.(å¥‡
+i	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œîÿÿÿÿÿ
+F
+java:S1874Œ"/Remove this use of "Handler"; it is deprecated.(„ÑñŒ
+R	java:S125—"<This block of commented-out lines of code should be removed.(ÄÙô
+T
+java:S3878©"8Remove this array creation and simply pass the elements.(ß“¬úÿÿÿÿ
+K
+java:S1874©"/Remove this use of "execute"; it is deprecated.(ß“¬úÿÿÿÿ
+v	java:S116¹"[Rename this field "current_doc_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òˆ¹ıÿÿÿÿ
+k	java:S116º"URename this field "group_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÜëƒ
+p	java:S116»"URename this field "group_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿı·¹øÿÿÿÿ
+H
+java:S1874¸"1Remove this use of "AsyncTask"; it is deprecated.(£Â¡˜
+M
+java:S1874¼"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+`
+java:S1874Â"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Á…‘
+J
+java:S1874Ã"4Remove this use of "onPreExecute"; it is deprecated.(”•P
+M
+java:S1874Ä"6Remove this use of "ProgressDialog"; it is deprecated.(µÓáò
+T
+java:S1874Å"8Remove this use of "setIndeterminate"; it is deprecated.(´á¸øÿÿÿÿ
+H
+java:S1874È"2Remove this use of "setMessage"; it is deprecated.(çË¦
+a
+java:S1874ì"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(÷‰è
+L
+java:S1874í"5Remove this use of "onPostExecute"; it is deprecated.(¿åß¯
+W	java:S125ö"<This block of commented-out lines of code should be removed.(™éë›üÿÿÿÿ
+Z
+java:S1155‚">Use isEmpty() to check whether the collection is empty or not.(¯ïõœüÿÿÿÿ
+K
+java:S1905„"/Remove this unnecessary cast to "CharSequence".(Ù©‡´ùÿÿÿÿ
+K
+java:S1905…"/Remove this unnecessary cast to "CharSequence".(ÍÁñûÿÿÿÿ
+F
+java:S1905†"/Remove this unnecessary cast to "CharSequence".(™àëÒ
+I
+java:S1905†"2Remove this unnecessary cast to "OnClickListener".(™àëÒ
+K
+java:S1905’"/Remove this unnecessary cast to "CharSequence".(µŸ´Šøÿÿÿÿ
+N
+java:S1905’"2Remove this unnecessary cast to "OnClickListener".(µŸ´Šøÿÿÿÿ
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(Ğ¸™áúÿÿÿÿ
+2
+java:S3626­"Remove this redundant jump.(ûÁİ…
+2
+java:S3626æ"Remove this redundant jump.(ûÁİ…
+2
+java:S3626•"Remove this redundant jump.(ûÁİ…
+2
+java:S3626˜"Remove this redundant jump.(ûÁİ…
+2
+java:S3626¨"Remove this redundant jump.(ûÁİ…
+2
+java:S3626É"Remove this redundant jump.(ûÁİ…
+=
+java:S1481¡"&Remove this unused "i" local variable.(»ŸÜš
+M
+java:S1874·"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+K
+java:S1874·"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+W	java:S125İ"<This block of commented-out lines of code should be removed.(é¹ÊÌşÿÿÿÿ
+Z
+java:S1155‘">Use isEmpty() to check whether the collection is empty or not.(¡è¾Şúÿÿÿÿ
+M
+java:S1874š"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+K
+java:S1874š"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+M
+java:S1874è"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+K
+java:S1874è"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+R	java:S125—"<This block of commented-out lines of code should be removed.(­ÖÖ
+k
+java:S1215Ò"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+n
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ÿ¥÷úÿÿÿÿ
+K
+java:S1874ï"4Remove this use of "SimpleTarget"; it is deprecated.(å„ÄÀ
+k
+java:S1215ô"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+K
+java:S1874ü"4Remove this use of "SimpleTarget"; it is deprecated.(™§âô
+k
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+W	java:S125—"<This block of commented-out lines of code should be removed.(åÛ‹ëşÿÿÿÿ
+J
+java:S1874¥"3Remove this use of "CipherSuite"; it is deprecated.(ÑÚã‰
+D
+java:S1905¸"(Remove this unnecessary cast to "float".(Éığ†øÿÿÿÿ
+D
+java:S1905¹"(Remove this unnecessary cast to "float".(„İêòıÿÿÿÿ
+?
+java:S1905»"(Remove this unnecessary cast to "float".(û›Œé
+D
+java:S1905¼"(Remove this unnecessary cast to "float".(Ï¬¬şÿÿÿÿ
+@
+java:S1905¾")Remove this unnecessary cast to "double".(•÷°Ë
+E
+java:S1905¿")Remove this unnecessary cast to "double".(’â²íùÿÿÿÿ
+@
+java:S1905Á")Remove this unnecessary cast to "double".(ÔÅü°
+E
+java:S1905Â")Remove this unnecessary cast to "double".(•¿ó÷ùÿÿÿÿ
+?
+java:S1905Ê"(Remove this unnecessary cast to "float".(è­÷’
+?
+java:S1905Ì"(Remove this unnecessary cast to "float".(öÈ—‚
+I
+java:S1905æ"2Remove this unnecessary cast to "OnClickListener".(í±Ç€
+I
+java:S1905ğ"2Remove this unnecessary cast to "OnClickListener".(àÛöØ
+R
+java:S1874ú"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+T
+java:S1874û"8Remove this use of "setIndeterminate"; it is deprecated.(´á¸øÿÿÿÿ
+N
+java:S1874ü"2Remove this use of "setMessage"; it is deprecated.(İÍÃ”úÿÿÿÿ
+v	java:S116Š	"[Rename this field "current_doc_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òˆ¹ıÿÿÿÿ
+k	java:S116‹	"URename this field "group_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÜëƒ
+p	java:S116Œ	"URename this field "group_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿı·¹øÿÿÿÿ
+M
+java:S1874‰	"1Remove this use of "AsyncTask"; it is deprecated.(úù«ºùÿÿÿÿ
+`
+java:S1874’	"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Á…‘
+J
+java:S1874“	"4Remove this use of "onPreExecute"; it is deprecated.(”•P
+a
+java:S1874½	"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(÷‰è
+L
+java:S1874¾	"5Remove this use of "onPostExecute"; it is deprecated.(¿åß¯
+U
+java:S1155Ô	">Use isEmpty() to check whether the collection is empty or not.(ØÃı¥
+K
+java:S1905Ö	"/Remove this unnecessary cast to "CharSequence".(Ù©‡´ùÿÿÿÿ
+F
+java:S1905×	"/Remove this unnecessary cast to "CharSequence".(ÀœŸÄ
+F
+java:S1905Ø	"/Remove this unnecessary cast to "CharSequence".(™àëÒ
+I
+java:S1905Ø	"2Remove this unnecessary cast to "OnClickListener".(™àëÒ
+K
+java:S1905ß	"/Remove this unnecessary cast to "CharSequence".(µŸ´Šøÿÿÿÿ
+N
+java:S1905ß	"2Remove this unnecessary cast to "OnClickListener".(µŸ´Šøÿÿÿÿ
+X
+java:S1068O"=Remove this unused "REQUEST_CAMERA_PERMISSION" private field.(º¯†èûÿÿÿÿ
